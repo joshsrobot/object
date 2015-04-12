@@ -6,6 +6,9 @@
         <field name="OBJECT">UP</field>
       </block>
     </value>
+    <statement name="DO">
+      <block type="oled_cleardisplay" id="980"></block>
+    </statement>
     <next>
       <block type="controls_whileUntil" id="13" inline="false">
         <field name="MODE">UNTIL</field>
