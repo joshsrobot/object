@@ -62,7 +62,7 @@
                               <block type="oled_drawnumber" id="446" inline="true">
                                 <value name="NUMBER">
                                   <block type="sensor_object" id="486">
-                                    <field name="OBJECT">REAR</field>
+                                    <field name="OBJECT">LEFTSIDE</field>
                                   </block>
                                 </value>
                                 <next>
@@ -81,7 +81,7 @@
                                       <block type="oled_drawnumber" id="526" inline="true">
                                         <value name="NUMBER">
                                           <block type="sensor_object" id="556">
-                                            <field name="OBJECT">LEFTSIDE</field>
+                                            <field name="OBJECT">RIGHTFRONT</field>
                                           </block>
                                         </value>
                                         <next>
@@ -100,7 +100,7 @@
                                               <block type="oled_drawnumber" id="594" inline="true">
                                                 <value name="NUMBER">
                                                   <block type="sensor_object" id="601">
-                                                    <field name="OBJECT">RIGHTSIDE</field>
+                                                    <field name="OBJECT">REAR</field>
                                                   </block>
                                                 </value>
                                                 <next>
